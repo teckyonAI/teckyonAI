@@ -47,6 +47,8 @@ At Teckyon AI, we believe in the power of collaboration to solve challenging pro
 📧 **Contact Us**: [teckyonai@gmail.com](mailto:teckyonai@gmail.com)  
 🌐 **Website**: [Coming Soon]
 
+![](https://komarev.com/ghpvc/?username=teckyonAI)
+
 ---
 
 ### 🌟 Follow Us
